@@ -1,0 +1,14 @@
+# in case you have the workspace folder under the repo
+.metadata
+#ignore classes
+classes
+#war file output by ant build
+*.war
+#ignore target
+target
+#ignore setting
+.settings
+#ignore extenalToolBuilders
+.externalToolBuilders
+#ignore Server
+Servers
